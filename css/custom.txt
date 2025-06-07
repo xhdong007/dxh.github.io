@@ -1,0 +1,4 @@
+body {
+  background-color: #f0f0f0; /* 修改为你想要的颜色 */
+  background-image: url('C:\Users\17251\Desktop\Blog\public\css\images'); /* 如果需要图片背景，添加此行 */
+}
